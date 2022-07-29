@@ -51,13 +51,17 @@ body {
 }
 
 .h1s2 {
-  font-weight: 900;
   font-size: x-large;
+  font-weight: bolder;
 }
 
 .texts1 {
   width: 300px;
-  height: 255px;
+  height: auto;
+}
+
+.textunderawesome {
+  font-weight: 600;
 }
 
 .imgsec1 {
@@ -125,6 +129,7 @@ body {
   justify-content: center;
   text-align: center;
   font-style: italic;
+  font-weight: bold;
 }
 
 .quoteecontainer {
@@ -133,6 +138,7 @@ body {
   justify-content: center;
   text-align: center;
   font-size: large;
+  font-weight: bolder;
 }
 
 .section4 {
@@ -170,4 +176,5 @@ body {
 .footer {
   display: flex;
   justify-content: center;
+  font-weight: bold;
 }
