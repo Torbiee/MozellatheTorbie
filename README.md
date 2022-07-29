@@ -2,7 +2,7 @@
 
 All about my kitty
 
-color selection 
+color selection
 
 #100F0F
 #0F3D3E
