@@ -110,3 +110,64 @@ body {
   width: 200px;
   height: 200px;
 }
+
+.section3 {
+  background-color: #e2dcc8;
+  height: 150px;
+  box-shadow: 0px 3px 25px black, 0 4px 15px 0px white;
+  display: flex;
+  flex-direction: column;
+}
+
+.quotecontainer {
+  padding-top: 55px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-style: italic;
+}
+
+.quoteecontainer {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: large;
+}
+
+.section4 {
+  background-color: #e2dcc8;
+  height: 150px;
+  box-shadow: 0px 3px 25px black, 0 4px 15px 0px white;
+  display: flex;
+  flex-direction: column;
+}
+
+.calltoactions4 {
+  background-color: #0f3d3e;
+  color: #e2dcc8;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #100f0f;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.cta {
+  padding: 10px;
+}
+
+.link2save {
+  background-color: rgb(49, 83, 118);
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
